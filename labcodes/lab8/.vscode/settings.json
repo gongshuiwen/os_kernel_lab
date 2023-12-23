@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "error.h": "c",
+        "type_traits": "cpp",
+        "bitmap.h": "c",
+        "cstdint": "cpp",
+        "cmath": "c",
+        "defs.h": "c"
+    }
+}
